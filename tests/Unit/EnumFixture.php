@@ -1,8 +1,8 @@
 <?php
 
-namespace Nasyrov\Laravel\Enums\Tests\Unit;
+namespace Kentem\Laravel\Enums\Tests\Unit;
 
-use Nasyrov\Laravel\Enums\Enum;
+use Kentem\Laravel\Enums\Enum;
 
 /**
  * @method static EnumFixture FOO()

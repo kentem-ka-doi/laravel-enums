@@ -1,8 +1,8 @@
 <?php
 
-namespace Nasyrov\Laravel\Enums\Tests\Integration;
+namespace Kentem\Laravel\Enums\Tests\Integration;
 
-use Nasyrov\Laravel\Enums\EnumServiceProvider;
+use Kentem\Laravel\Enums\EnumServiceProvider;
 use Orchestra\Testbench\TestCase as BaseTestCase;
 
 abstract class TestCase extends BaseTestCase

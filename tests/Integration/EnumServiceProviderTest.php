@@ -1,9 +1,9 @@
 <?php
 
-namespace Nasyrov\Laravel\Enums\Tests\Integration;
+namespace Kentem\Laravel\Enums\Tests\Integration;
 
 use Illuminate\Support\Facades\Artisan;
-use Nasyrov\Laravel\Enums\Console\EnumMakeCommand;
+use Kentem\Laravel\Enums\Console\EnumMakeCommand;
 
 class EnumServiceProviderTest extends TestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Nasyrov\Laravel\Enums\Console;
+namespace Kentem\Laravel\Enums\Console;
 
 use Illuminate\Console\GeneratorCommand;
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace Nasyrov\Laravel\Enums;
+namespace Kentem\Laravel\Enums;
 
 use Illuminate\Support\ServiceProvider;
-use Nasyrov\Laravel\Enums\Console\EnumMakeCommand;
+use Kentem\Laravel\Enums\Console\EnumMakeCommand;
 
 class EnumServiceProvider extends ServiceProvider
 {

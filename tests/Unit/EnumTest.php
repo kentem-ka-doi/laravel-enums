@@ -1,6 +1,6 @@
 <?php
 
-namespace Nasyrov\Laravel\Enums\Tests\Unit;
+namespace Kentem\Laravel\Enums\Tests\Unit;
 
 use BadMethodCallException;
 use Illuminate\Support\Collection;
