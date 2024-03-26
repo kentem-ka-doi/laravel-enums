@@ -54,6 +54,7 @@ abstract class Enum implements JsonSerializable
      *
      * @return mixed
      */
+    #[\ReturnTypeWillChange]
     public function jsonSerialize()
     {
         return $this->value;
